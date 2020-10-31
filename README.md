@@ -6,20 +6,23 @@
 
 ### Interview Questions
 
-
-| SNo. | ### Contents |
+### Table of Contents
+| SNo. | **Contents** |
 | --- | --------- |
 | 1. | [FAANG Must Do Problems](#faang-must-do-problems) |
-| 1. | [Amazon](#amazon) |
-| 1. | [Microsoft](#microsoft) |
-| 1. | [Facebook](#facebook) |
-| 1. | [Google Top 50](#google-top-50) |
-| 1. | [Google](#google) |
+| 2. | [Amazon](#amazon) |
+| 3. | [Microsoft](#microsoft) |
+| 4. | [Facebook](#facebook) |
+| 5. | [Google Top 50](#google-top-50) |
+| 6. | [Google](#google) |
+| 7. | [LinkedIn](#linkedin) |
+| 8. | [Flipkart](#flipkart) |
+| 9. | [Netflix](#netflix) |
 
 
+1. ### FAANG Must Do Problems
 | No. | Questions |
 | --- | --------- |
-|   | 1. ### **FAANG Must Do Problems** |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |3  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
@@ -96,7 +99,11 @@
 |74  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) |
 |75  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
 |76  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
-|   | ### **Amazon** |
+|77  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
+
+2. ### Amazon
+| No. | Questions |
+| --- | --------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
 |3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
@@ -223,7 +230,10 @@
 |124  | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
 |125  | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
 |126  | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
-|   | ### **Microsoft** |
+
+3. ### Microsoft
+| No. | Questions |
+| --- | --------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
 |3  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
@@ -277,7 +287,10 @@
 |51  | [Jump Game III](https://leetcode.com/problems/jump-game-iii) |
 |52  | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
 |53  | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
-|   | ### **Facebook** |
+
+3. ### Facebook
+| No. | Questions |
+| --- | --------- |
 |1  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 |2  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
 |3  | [3Sum](https://leetcode.com/problems/3sum) |
@@ -358,7 +371,10 @@
 |78  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) |
 |79  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) |
 |80  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
-|   | ### **Google Top 50** |
+
+4. ### Google Top 50
+| No. | Questions |
+| --- | --------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Insert Interval](https://leetcode.com/problems/insert-interval) |
 |3  | [Text Justification](https://leetcode.com/problems/text-justification) |
@@ -396,7 +412,10 @@
 |35  | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers) |
 |36  | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers) |
 |37  | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees) |
-|   | ### **Google** |
+
+5. ### Google
+| No. | Questions |
+| --- | --------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |3  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
@@ -591,3 +610,43 @@
 |192  | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) |
 |193  | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
 |194  | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
+
+6. ### LinkedIn
+| No. | Questions |
+| --- | --------- |
+|1  | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
+|2  | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
+|3  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
+|4  | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
+|5  | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
+|6  | [Max Stack](https://leetcode.com/problems/max-stack) |
+|7  | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
+|8  | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
+|9  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
+|10  | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
+|11  | [Paint House](https://leetcode.com/problems/paint-house) |
+|12  | [Paint House II](https://leetcode.com/problems/paint-house-ii) |
+|13  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
+|14  | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) |
+|15  | [Text Justification](https://leetcode.com/problems/text-justification) |
+|16  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences) |
+|17  | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) |
+|18  | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) |
+|19  | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |
+|20  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|21  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|22  | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
+|23  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
+|24  | [Valid Number](https://leetcode.com/problems/valid-number) |
+|25  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
+
+7. ### Flipkart
+| No. | Questions |
+| --- | --------- |
+|1  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
+
+8. ### Netflix
+| No. | Questions |
+| --- | --------- |
+|1  | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|2  | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) |
